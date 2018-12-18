@@ -5,8 +5,14 @@ Given two strings of letters, determine whether the second can be made from the 
 
 Examples
 funnel("leave", "eave") => true
+
 funnel("reset", "rest") => true
+
 funnel("dragoon", "dragon") => true
+
 funnel("eave", "leave") => false
+
 funnel("sleet", "lets") => false
+
 funnel("skiff", "ski") => false
+
